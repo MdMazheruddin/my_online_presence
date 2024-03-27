@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 subtitle: From the pexels folder
-permalink: /my_gallery/
+permalink: /gallery/
 gallery_path: "assets/img/pexels"
 excluded: true
 position: 3
